@@ -2,7 +2,7 @@
 
 **Author:** Rishika Singh  
 **Dataset:** [CHB-MIT Scalp EEG](https://physionet.org/content/chbmit/1.0.0/)  
-**Status:** Manuscript in preparation
+**Status:** Ongoing research with expanded dataset validation and continued algorithmic refinement
 
 ---
 
