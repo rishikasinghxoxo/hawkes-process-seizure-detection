@@ -249,7 +249,7 @@ adaptive_window_detection:
     ≈ 1–2 additional minutes if hypothesis raised
 
 Total per channel: ≈ 6–10 minutes
-Total for 23 channels in parallel: ≈ 8–12 minutes (ThreadPoolExecutor)
+Total for 23 channels in parallel: ≈ 15–25 minutes (ThreadPoolExecutor)
 ```
 
 ---
